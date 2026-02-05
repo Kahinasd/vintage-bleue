@@ -1,5 +1,5 @@
-// Date cible : 07 MAI 2026 à minuit
-const targetDate = new Date('May 07, 2026 00:00:00').getTime();
+// Date cible : 1 2 2027 à minuit
+const targetDate = new Date('February 01, 2027 00:00:00').getTime();
 let countdownInterval;
 
 function updateCountdown() {

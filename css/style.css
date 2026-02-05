@@ -74,21 +74,21 @@
 
 
 
-/* ken burns slideshow IMG BACKGROUND */
+/* ken burns slideshow IMG BACKGROUND */ 
 .kenburns-slide-1 {
-background-image: url(../img/background/Movieprod.jpg);
+background-image: url(../img/background/Movieprod.webp);
 }
 
 .kenburns-slide-2 {
-background-image: url(../img/background/Movieprod.jpg);
+background-image: url(../img/background/Movieprod.webp);
 }
 
 .kenburns-slide-3 {
-background-image: url(../img/background/Movieprod.jpg);
+background-image: url(../img/background/Movieprod.webp);
 }
 
 .kenburns-slide-4 {
-background-image: url(../img/background/Movieprod.jpg);
+background-image: url(../img/background/Movieprod.webp);
 }
 
 
@@ -829,7 +829,7 @@ font-weight: 400;
 letter-spacing: 1px;
 line-height: 1;
 width: 210px; 
-height: 201%;
+height: 207%;
 left: -780px;
 top: -460px;
 margin: auto;
@@ -3898,9 +3898,9 @@ to {
     margin: 40px auto 60px;
     display: flex;
     gap: 40px;
-    justify-content: center;
+    justify-content:center;
     flex-wrap: wrap;
-    max-width: 1200px;
+    max-width: 1000px;
 }
 
 /* Individual Festival Card */
@@ -3937,6 +3937,7 @@ to {
 .festival-moment:hover img {
     transform: scale(1.05);
 }
+
 
 /* Gradient Overlay */
 .festival-gradient {
@@ -4017,6 +4018,12 @@ to {
         height: 550px;
     }
 }
+/* @media (max-width: 992px){
+.festivals-showcase {
+       
+  justify-content:center } 
+} */
+
 
 @media (max-width: 768px) {
     .festivals-showcase {
