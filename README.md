@@ -83,7 +83,7 @@ vintage-bleue/
 └── README.md
 ```
 
-## 👤 Author
+##  Author
 
 **Kahina** — [@Kahinasd](https://github.com/Kahinasd)
 
